@@ -1,0 +1,5 @@
+C:\Users\umbel\Desktop\New folder\New folder\kubik\kubik\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\umbel\Desktop\New folder\New folder\kubik\kubik\bin\Debug\kubik.exe
+C:\Users\umbel\Desktop\New folder\New folder\kubik\kubik\bin\Debug\kubik.pdb
+C:\Users\umbel\Desktop\New folder\New folder\kubik\kubik\obj\x86\Debug\kubik.exe
+C:\Users\umbel\Desktop\New folder\New folder\kubik\kubik\obj\x86\Debug\kubik.pdb
